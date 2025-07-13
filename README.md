@@ -28,7 +28,7 @@ This repository contains everything you need to set up and run automated tests f
 ## Repository Structure
 
 ```text
-my-tests/
+automated_testing_with_robot_framework/
 ├── .gitignore
 ├── README.md                # Project documentation (this file)
 ├── requirements.txt         # Python dependencies
@@ -48,8 +48,8 @@ my-tests/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/<your-org>/my-tests.git
-   cd my-tests
+   git clone https://github.com/nor4ham/automated_testing_with_robot_framework.git
+   cd automated_testing_with_robot_framework
    ```
 
 2. **Create a virtual environment**:
